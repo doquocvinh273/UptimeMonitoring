@@ -19,6 +19,8 @@ sites:
     url: https://www.tumi.co.id/id/home
   - name: TUMI HongKong
     url: https://www.tumi-hk.com/en/home
+  - name: aawq016 test
+    url: https://aawq-016.dx.commercecloud.salesforce.com/s/Tumi_MY/home
 
 assignees:
   - globeefred1989
