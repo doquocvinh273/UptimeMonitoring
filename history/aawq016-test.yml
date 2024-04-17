@@ -1,7 +1,7 @@
 url: https://aawq-016.dx.commercecloud.salesforce.com/s/Tumi_MY/home
-status: up
-code: 200
-responseTime: 3548
-lastUpdated: 2024-04-17T06:32:20.478Z
+status: down
+code: 401
+responseTime: 634
+lastUpdated: 2024-04-17T07:14:11.167Z
 startTime: 2024-04-17T03:32:32.678Z
 generator: Upptime <https://github.com/upptime/upptime>
