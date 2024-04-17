@@ -148,19 +148,19 @@
     "url": "https://aawq-016.dx.commercecloud.salesforce.com/s/Tumi_MY/home",
     "icon": "https://icons.duckduckgo.com/ip3/aawq-016.dx.commercecloud.salesforce.com.ico",
     "slug": "aawq016-test",
-    "status": "up",
-    "uptime": "84.36%",
-    "uptimeDay": "84.36%",
-    "uptimeWeek": "84.36%",
-    "uptimeMonth": "84.36%",
-    "uptimeYear": "84.36%",
-    "time": 2924,
-    "timeDay": 2924,
-    "timeWeek": 2924,
-    "timeMonth": 2924,
-    "timeYear": 2924,
+    "status": "down",
+    "uptime": "88.96%",
+    "uptimeDay": "88.96%",
+    "uptimeWeek": "88.96%",
+    "uptimeMonth": "88.96%",
+    "uptimeYear": "88.96%",
+    "time": 2717,
+    "timeDay": 2717,
+    "timeWeek": 2717,
+    "timeMonth": 2717,
+    "timeYear": 2717,
     "dailyMinutesDown": {
-      "2024-04-17": 56
+      "2024-04-17": 44
     }
   }
 ]
