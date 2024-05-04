@@ -38,3 +38,4 @@ workflowSchedule:
 
 status-website:
   baseUrl: /UptimeMonitoring
+  name: Uptime Status
