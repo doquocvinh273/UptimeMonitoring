@@ -114,19 +114,19 @@
     "url": "https://www.tumi.co.id/id/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.tumi.co.id.ico",
     "slug": "tumi-indonesia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2124,
-    "timeDay": 3656,
-    "timeWeek": 2542,
-    "timeMonth": 2149,
-    "timeYear": 2124,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2132,
+    "timeDay": 3278,
+    "timeWeek": 2540,
+    "timeMonth": 2159,
+    "timeYear": 2132,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 10
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 3285,
     "timeYear": 3350,
     "dailyMinutesDown": {
-      "2024-05-23": 826,
+      "2024-05-23": 835,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
