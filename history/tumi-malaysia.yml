@@ -1,7 +1,7 @@
 url: https://www.tumi.my
-status: up
-code: 200
-responseTime: 1819
-lastUpdated: 2024-05-27T23:07:52.101Z
+status: down
+code: 503
+responseTime: 1459
+lastUpdated: 2024-05-28T16:23:46.622Z
 startTime: 2024-04-17T03:21:37.763Z
 generator: Upptime <https://github.com/upptime/upptime>
