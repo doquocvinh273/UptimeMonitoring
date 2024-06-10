@@ -1,7 +1,7 @@
 url: https://www.tumi.com.au
-status: up
-code: 200
-responseTime: 2032
-lastUpdated: 2024-06-09T23:08:03.024Z
+status: down
+code: 503
+responseTime: 1053
+lastUpdated: 2024-06-10T16:55:26.302Z
 startTime: 2024-04-17T03:21:39.980Z
 generator: Upptime <https://github.com/upptime/upptime>
