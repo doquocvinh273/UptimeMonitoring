@@ -3,22 +3,6 @@ owner: doquocvinh273
 repo: UptimeMonitoring
 
 sites:
-  - name: TUMI Japan
-    url: https://www.tumi.co.jp
-  - name: TUMI Korea
-    url: https://www.tumi.co.kr
-  - name: TUMI Singapore
-    url: https://www.tumi.sg
-  - name: TUMI Malaysia
-    url: https://www.tumi.my
-  - name: TUMI Australia
-    url: https://www.tumi.com.au
-  - name: TUMI Thailand
-    url: https://www.tumi.co.th/th/home
-  - name: TUMI Indonesia
-    url: https://www.tumi.co.id/id/home
-  - name: TUMI HongKong
-    url: https://www.tumi-hk.com/en/home
   - name: aawq016 test
     url: https://aawq-016.dx.commercecloud.salesforce.com/s/Tumi_MY/home
 
