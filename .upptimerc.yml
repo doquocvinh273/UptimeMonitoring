@@ -3,7 +3,7 @@ owner: doquocvinh273
 repo: UptimeMonitoring
 
 sites:
-  - name: aawq016 test
+  - name: Tumi Test
     url: https://aawq-016.dx.commercecloud.salesforce.com/s/Tumi_MY/home
 
 assignees:
