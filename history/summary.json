@@ -4,19 +4,19 @@
     "url": "https://aawq-016.dx.commercecloud.salesforce.com/s/Tumi_MY/home",
     "icon": "https://icons.duckduckgo.com/ip3/aawq-016.dx.commercecloud.salesforce.com.ico",
     "slug": "tumi-test",
-    "status": "down",
-    "uptime": "5.29%",
-    "uptimeDay": "5.29%",
-    "uptimeWeek": "5.29%",
-    "uptimeMonth": "5.29%",
-    "uptimeYear": "5.29%",
-    "time": 595,
-    "timeDay": 595,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "status": "up",
+    "uptime": "2.83%",
+    "uptimeDay": "2.83%",
+    "uptimeWeek": "2.83%",
+    "uptimeMonth": "2.83%",
+    "uptimeYear": "2.83%",
+    "time": 1994,
+    "timeDay": 1994,
+    "timeWeek": 1994,
+    "timeMonth": 1994,
+    "timeYear": 1994,
     "dailyMinutesDown": {
-      "2024-06-24": 0
+      "2024-06-24": 3
     }
   }
 ]
