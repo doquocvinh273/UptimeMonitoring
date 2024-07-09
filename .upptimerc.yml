@@ -7,8 +7,7 @@ sites:
     url: https://aawq-016.dx.commercecloud.salesforce.com/s/Tumi_MY/home
 
 assignees:
-  - globeefred1989
-  - jamespham1705
+  - doquocvinh273
 
 workflowSchedule:
   graphs: "0 0 * * *"
